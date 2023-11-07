@@ -1,4 +1,4 @@
-# Well hello there ⭐
+# ⭐ Hello There ⭐
 
 ## My name is Berke || I'm a Software Developer with an emphasis on Frontend.
 
