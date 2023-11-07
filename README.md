@@ -1,20 +1,27 @@
-Well hello there ⭐
+# Well hello there ⭐
 
-My name is Berke || I'm a **Software Developer** with an emphasis on **Frontend**. 
+## My name is Berke || I'm a Software Developer with an emphasis on Frontend.
 
-I'm a person who likes to learn new things, be productive and inovate ideas. I love to obsess about details. I am currently self educating on frontend and backend technologies such as Typescript and Next.JS. 
+Welcome to my GitHub page! I am passionate about building sleek, efficient, and user-friendly web applications. I have a penchant for learning new technologies and refining my approach to development, especially in frontend frameworks and backend technologies like Typescript and Next.js.
 
-You can reach me at kberkeyilmaz@gmail.com
+📫 How to reach me: [kberkeyilmaz@gmail.com](mailto:kberkeyilmaz@gmail.com)
 
-I am willing to contribute any projects that may help me grow as a developer. 
+💡 I am eager to collaborate on projects that foster growth and learning.
 
+🛠️ I'm currently working on my personal webpage.
 
-I'm currently working on my personal webpage. 
+🌱 I'm learning Typescript and system design to enhance my ability to architect and scale web applications effectively.
 
-I'm currently learning Typescript and system designs. 
+## Skills
 
-Skills
-Python TypeScript HTML5 React Angular CSS3 Sass Bootstrap
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+
 
 ![KBerkeYilmaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=KBerkeYilmaz&show_icons=true)
 
