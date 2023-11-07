@@ -1,4 +1,19 @@
-### Hi there 👋
+Well hello there ⭐
+
+My name is Berke I'm a **Software Developer** with an emphasis on **Frontend**. 
+
+I'm a person who likes to learn new things, be productive and inovate ideas. I love to obsess about details. I am currently self educating on frontend and backend technologies. 
+
+You can reach me at kberkeyilmaz@gmail.com
+
+I am willing to contribute any projects that may help me grow as a developer. 
+
+
+I'm currently working on my personal webpage. 
+
+I'm currently learning Typescript and system designs. 
+
+
 
 <!--
 **KBerkeYilmaz/KBerkeYilmaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
