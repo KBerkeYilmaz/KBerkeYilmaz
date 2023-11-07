@@ -20,6 +20,14 @@ Welcome to my GitHub page! I am passionate about building sleek, efficient, and 
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/)
 [![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)](https://sass-lang.com)
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com)
+[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
+[![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
+[![DaisyUI](https://img.shields.io/badge/DaisyUI-FF69B4?style=for-the-badge&logo=daisyui&logoColor=white)](https://daisyui.com/)
+[![MaterialUI](https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)](https://mui.com/)
+[![React Spring](https://img.shields.io/badge/React_Spring-FF6D00?style=for-the-badge&logo=react-spring&logoColor=white)](https://www.react-spring.io/)
+[![Three.js](https://img.shields.io/badge/Three.js-black?style=for-the-badge&logo=three.js&logoColor=white)](https://threejs.org/)
+[![Animate.css](https://img.shields.io/badge/Animate.css-FF9C00?style=for-the-badge&logo=animate.css&logoColor=white)](https://animate.style/)
+[![GreenSock](https://img.shields.io/badge/GreenSock-88CE02?style=for-the-badge&logo=greensock&logoColor=white)](https://greensock.com/)
 
 
 ![KBerkeYilmaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=KBerkeYilmaz&show_icons=true)
