@@ -6,7 +6,7 @@ Welcome to my GitHub page! I am passionate about building sleek, efficient, and 
 
 📫 How to reach me: [kberkeyilmaz@gmail.com](mailto:kberkeyilmaz@gmail.com)
 
-💡 I am eager to collaborate on projects that may help my growth and learning.
+💡 I am eager to collaborate on projects that may help me grow as a developer.
 
 🛠️ I'm currently working on my personal webpage.
 
