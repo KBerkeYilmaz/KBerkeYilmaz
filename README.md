@@ -10,7 +10,7 @@ Welcome to my GitHub page! I am passionate about building sleek, efficient, and 
 
 🌱 I'm learning system design to enhance my ability to architect and scale web applications effectively. Also work on animation libraries to hone my frontend skills. 
 
-Currently working on https://team-random.vercel.app/
+Currently working on [https://www.teamrandom.dev/]
 
 ## Skills
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://html.spec.whatwg.org/)
