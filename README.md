@@ -1,8 +1,10 @@
 # ⭐ Hello There ⭐
 
-## My name is Berke || I'm a Software Developer with an emphasis on Frontend.
+## My name is Berke || I'm a Software Developer. 
 
-Welcome to my GitHub page! I am passionate about building sleek, efficient, and user-friendly web applications. I have a passion for learning new technologies and refining my approach to development, especially in frontend frameworks and backend technologies like Typescript and Next.js.
+Welcome to my GitHub page! I am passionate about building sleek, efficient, and user-friendly web applications. I love learning new technologies and can develop methodologies to learn new stuff on the go. 
+
+Currently I am trying to learn different design patterns to refine my approach to development. 
 
 📫 How to reach me: [kberkeyilmaz@gmail.com](mailto:kberkeyilmaz@gmail.com)
 
