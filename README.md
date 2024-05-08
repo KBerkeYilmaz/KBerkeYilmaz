@@ -4,13 +4,12 @@
 
 Welcome to my GitHub page! I am passionate about building sleek, efficient, and user-friendly web applications. I love learning new technologies and can develop methodologies to learn new stuff on the go. 
 
-Currently I am trying to learn different design patterns to refine my approach to development. 
+🌱 I'm learning system design to enhance my ability to architect and scale web applications effectively. I also work on animation libraries to hone my frontend skills. 
 
 📫 How to reach me: [kberkeyilmaz@gmail.com](mailto:kberkeyilmaz@gmail.com)
 
 💡 I am eager to collaborate on projects that may help me grow as a developer.
 
-🌱 I'm learning system design to enhance my ability to architect and scale web applications effectively. I also work on animation libraries to hone my frontend skills. 
 
 :pencil2: Currently working on [Team Random CRM App](https://www.teamrandom.dev/)
 
