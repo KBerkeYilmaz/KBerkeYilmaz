@@ -8,7 +8,7 @@ Welcome to my GitHub page! I am passionate about building sleek, efficient, and 
 
 📫 How to reach me: [kberkeyilmaz@gmail.com](mailto:kberkeyilmaz@gmail.com)
 
-💡 I am eager to collaborate on projects that may help me grow as a developer.
+💡 I am eager to collaborate on different projects with different requirements. 
 
 
 :pencil2: Currently working on [Team Random CRM App](https://www.teamrandom.dev/)
