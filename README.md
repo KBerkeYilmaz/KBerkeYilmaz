@@ -1,14 +1,13 @@
-# Hello 👋
+# Berke Yilmaz
 
-## My name is Berke || I'm a Software Developer. 
+Fullstack engineer. I build MVPs, fix broken systems, and ship AI-powered features.
 
-Welcome to my GitHub page! I am passionate about building sleek, efficient, and user-friendly web applications. I love learning new technologies and can develop methodologies to learn new stuff on the go. 
+## Stack
 
-🌱 I'm learning system design to enhance my ability to architect and scale web applications effectively. I also work on animation libraries to hone my frontend skills. 
-
-📫 How to reach me: [kberkeyilmaz@gmail.com](mailto:kberkeyilmaz@gmail.com)
-
-💡 I am eager to collaborate on different projects with different requirements. 
+**Frontend:** React, Next.js, TypeScript, Tailwind, ShadCN  
+**Backend:** Node.js, Python, FastAPI, Prisma, Express.js  
+**Data:** PostgreSQL, MongoDB, Redis, Celery  
+**AI:** RAG systems, LLM integrations
 
 
 ## Skills
