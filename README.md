@@ -1,13 +1,25 @@
 # Berke Yilmaz
 
-Fullstack engineer. I build MVPs, fix broken systems, and ship AI-powered features.
+Fullstack engineer, strongest in frontend. I build MVPs, fix broken systems, and ship AI-powered features.
+
+## What I Do
+
+I jump into messy codebases, figure out what's broken, and make things work. I've led frontend overhauls for SaaS products serving 10k+ users, built distributed data pipelines (15× throughput improvement), and shipped AI features — RAG chatbots, LLM integrations — in production.
+
+Most of my professional work is in private repos, but you can check out my [portfolio](https://www.berkeyilmaz.dev) for case studies.
 
 ## Stack
 
 **Frontend:** React, Next.js, TypeScript, Tailwind, ShadCN  
-**Backend:** Node.js, Python, FastAPI, Prisma, Express.js  
+**Backend:** Node.js, Express.js, Python, FastAPI, Prisma  
 **Data:** PostgreSQL, MongoDB, Redis, Celery  
-**AI:** RAG systems, LLM integrations
+**AI:** RAG systems, LLM integrations, prompt pipelines
+
+## Let's Connect
+
+📫 [kberkeyilmaz@gmail.com](mailto:kberkeyilmaz@gmail.com)  
+🌐 [berkeyilmaz.dev](https://www.berkeyilmaz.dev)  
+💼 [LinkedIn](https://www.linkedin.com/in/kutalmis-berke-yilmaz/)
 
 
 ## Skills
