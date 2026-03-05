@@ -1,6 +1,6 @@
-# Berke Yilmaz
+# Hello 👋
 
-Fullstack engineer, strongest in frontend. I build MVPs, fix broken systems, and ship AI-powered features.
+I'm Berke, a fullstack engineer with a passion for micro-animations. I build MVPs, fix broken systems, and ship AI-powered features.
 
 ## What I Do
 
