@@ -1,6 +1,6 @@
 # Hello 👋
 
-I'm Berke, a fullstack engineer with a passion for micro-animations. I build MVPs, fix broken systems, and ship AI-powered features.
+I'm Berke, a fullstack engineer who loves to work on products and owning end-to-end features. I build MVPs, fix and maintain ongoing systems, and ship AI-powered features.
 
 ## What I Do
 
