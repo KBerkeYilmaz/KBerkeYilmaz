@@ -4,16 +4,16 @@ I'm Berke, a fullstack engineer who loves to work on products and owning end-to-
 
 ## What I Do
 
-I jump into messy codebases, figure out what's broken, and make things work. I've led frontend overhauls for SaaS products serving 10k+ users, built distributed data pipelines (15× throughput improvement), and shipped AI features — RAG chatbots, LLM integrations — in production.
+I jump into messy codebases, figure out what's broken, and make things work. I've led frontend overhauls for SaaS products serving 10k+ users, built distributed data pipelines (15× throughput improvement), and worked on AI features like RAG pipelines and LLM integrations in production.
 
 Most of my professional work is in private repos, but you can check out my [portfolio](https://www.berkeyilmaz.dev) for case studies.
 
 ## Stack
 
-**Frontend:** React, Next.js, TypeScript, Tailwind, ShadCN  
+**Frontend:** React, Next.js, TypeScript, Tailwind, ShadCN, GSAP  
 **Backend:** Node.js, Express.js, Python, FastAPI, Prisma  
-**Data:** PostgreSQL, MongoDB, Redis, Celery  
-**AI:** RAG systems, LLM integrations, prompt pipelines
+**Data:** PostgreSQL, MongoDB, Redis, Celery, tRPC  
+**AI:** RAG, LLM integrations, prompt pipelines
 
 ## Let's Connect
 
